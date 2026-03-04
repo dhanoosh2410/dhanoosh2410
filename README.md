@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhanoosh Narayan</h1>
+<h1 align="center">Hi 👋, I'm Dhanoosh</h1>
 <h3 align="center">Computer Science student specializing in Digital Systems Security | Cybersecurity & Full-Stack Development</h3>
 
 <p align="center">

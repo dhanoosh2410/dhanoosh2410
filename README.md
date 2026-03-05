@@ -56,7 +56,7 @@ AI-powered educational web application focused on image understanding and intera
 - Integrated backend services for **captioning, text-to-speech, user interaction, and data handling**
 - Produced **system architecture diagrams, ERDs, and project documentation** to support development
 
-### Home SOC Lab
+### [Home SOC Lab](https://github.com/dhanoosh2410/Home_Lab_SOC)
 Safe and isolated security lab for practicing attack-and-defense simulation and log analysis.
 
 - Built in **VirtualBox** using **Kali Linux** and **Windows 10** virtual machines

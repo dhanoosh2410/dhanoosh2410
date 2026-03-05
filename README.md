@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanoosh</h1>
-<h3 align="center">Computer Science student specializing in Digital Systems Security | Cybersecurity & Full-Stack Development</h3>
+<h3 align="center">Computer Science Graduate (Digital Systems Security) | Cybersecurity & Full-Stack Development</h3>
 
 <p align="center">
   <a href="mailto:dhanoosh2410@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Bachelor of Computer Science student at the **University of Wollongong (SIM)**, majoring in **Digital Systems Security**
+- 🎓 **Computer Science graduate** from the **University of Wollongong (SIM)**, specializing in **Digital Systems Security**
 - 🔐 Interested in **cybersecurity, security operations, full-stack development, and applied AI**
 - 🧠 Built a **full-stack AI-powered educational web application** using **Python, FastAPI, React, and PostgreSQL**
 - 🛡️ Built a **Home SOC Lab** using **VirtualBox, Kali Linux, Windows 10, and Splunk** for hands-on security monitoring and incident analysis
@@ -52,16 +52,16 @@
 AI-powered educational web application focused on image understanding and interactive learning.
 
 - Built a full-stack application with **Python, FastAPI, React, and PostgreSQL**
-- Implemented features such as **image captioning, storytelling, question generation, dictionary lookup, and accessibility support**
+- Implemented **AI-driven image captioning and story generation** with interactive learning features (quizzes, dictionary, accessibility support)
 - Integrated backend services for **captioning, text-to-speech, user interaction, and data handling**
-- Produced **system architecture diagrams, ERDs, and project documentation** to support development
+- Produced **system architecture diagrams, ERDs, and technical documentation** to support development
 
 ### [Home SOC Lab](https://github.com/dhanoosh2410/Home_Lab_SOC)
 Safe and isolated security lab for practicing attack-and-defense simulation and log analysis.
 
 - Built in **VirtualBox** using **Kali Linux** and **Windows 10** virtual machines
 - Configured **Splunk** for centralized log monitoring
-- Used the environment to investigate security events, analyze host activity, and strengthen **SIEM** and **incident analysis** skills
+- Investigated security events, analysed host activity, and strengthened **SIEM** and **incident analysis** skills
 
 ---
 
@@ -110,5 +110,3 @@ Safe and isolated security lab for practicing attack-and-defense simulation and 
 - 💻 **GitHub:** [github.com/dhanoosh2410](https://github.com/dhanoosh2410)
 
 ---
-
-⭐ I’m building projects that combine **security, software engineering, and practical problem-solving** — and I’m always looking to keep learning through hands-on work.

@@ -94,7 +94,7 @@ Safe and isolated security lab for practicing attack-and-defense simulation and 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanoosh2410&hide_border=true" alt="Dhanoosh's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=dhanoosh2410&hide_border=true" alt="Dhanoosh's GitHub streak" />
 </p>
 
 <p align="center">
